@@ -1,0 +1,6 @@
+*.json
+tracks/
+Data/
+*.svg
+MillionSongSubset
+libfmp
